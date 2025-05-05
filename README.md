@@ -234,4 +234,3 @@ a safe messaging system allowing asynchronous debate between doctors and patient
 - **Security**: All patient and doctor interactions (appointments, consultations, messaging) must be HIPAA-compliant, ensuring the protection of sensitive health data.
 - **Scalability**: The app should support large numbers of patients and doctors, especially when incorporating video consultations, requiring efficient server scaling.
 - **API Integration**: Integration with video conferencing APIs (e.g., Zoom, WebRTC) and possibly external exercise databases for a rich library of guided therapy.
-- **Push Notifications**
